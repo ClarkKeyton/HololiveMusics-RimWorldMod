@@ -1,0 +1,42 @@
+<Defs>
+    <MusicExpanded.TrackDef>
+		<label>Blue Clapper(feat.Shishiro Botan, Yukihana Lamy)</label>
+		<defName>Blue_Clapper</defName>
+		<clipPath>MusicExpanded/Hololive/Blue Clapper</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Wotaku - Mafia(Shien Cover)</label>
+		<defName>WotakuMafia_By_ShienCover</defName>
+		<clipPath>MusicExpanded/Hololive/WotakuMafia By Shien</clipPath>
+		<cue>Credits</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Wotaku - Mafia(Instr)</label>
+		<defName>WotakuMafia_Instr</defName>
+		<clipPath>MusicExpanded/Hololive/WotakuMafiaInstr</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Yukihana Lamy - Fleur</label>
+		<defName>FleurByYukihanaLamy</defName>
+		<clipPath>MusicExpanded/Hololive/FleurByYukihanaLamy</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Lioness Pride by Shishiro Botan</label>
+		<defName>LionessPrideShishiroBotan</defName>
+		<clipPath>MusicExpanded/Hololive/LionessPrideByShishiroBotan</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Create by Shishiro Botan</label>
+		<defName>CreateByShishiroBotan</defName>
+		<clipPath>MusicExpanded/Hololive/CreateByShiBotan</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Hoshimachi Suisei - Her Trail on the Celestial Sphere</label>
+		<defName>HoshimachiSuiseiHerTrailOnTheCelestialSphere</defName>
+		<clipPath>MusicExpanded/Hololive/HoshimachiSuiseiHerTrail</clipPath>
+	</MusicExpanded.TrackDef>
+	
+</Defs>
