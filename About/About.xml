@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Music Expanded: Hololive Musics</name>
+    <description><![CDATA[It's Testing My Music Mod]]>
+    </description>
+    <author>NijoFukushi</author>
+    <packageId>hololive.soundtracks</packageId>
+    <supportedVersions>
+        <li>1.3</li>
+        <li>1.4</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>musicexpanded.framework</li>
+    </loadAfter>
+    <modDependencies>
+        <li>
+            <packageId>musicexpanded.framework</packageId>
+            <displayName>Music Expanded Framework</displayName>
+            <downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>

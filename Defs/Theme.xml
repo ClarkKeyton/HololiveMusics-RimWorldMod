@@ -1,0 +1,18 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>HOLOLIVE_OST</defName>
+        <label>Hololive Soundtracks</label>
+		<iconPath>UI/Icons/HololiveMusics-ModPreviewByNijo</iconPath>
+        <description>It's Just Testing A My New Mod</description>
+        <tracks>
+            <li>Blue_Clapper</li>
+            <li>WotakuMafia_By_ShienCover</li>
+            <li>WotakuMafia_Instr</li>
+            <li>KickBackByRikka</li>
+            <li>FleurByYukihanaLamy</li>
+            <li>CreateByShishiroBotan</li>
+            <li>LionessPrideShishiroBotan</li>
+            <li>HoshimachiSuiseiHerTrailOnTheCelestialSphere</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
