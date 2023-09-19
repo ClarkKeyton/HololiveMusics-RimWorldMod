@@ -1,2 +1,2 @@
 # HololiveMusics-RimWorldMod
-HololiveMusics-RimWorldMod by ClarkKeyton(My First Mod For Game Rimworld)
+It's My First Mod to Hololive Musics for Game RimWorld(This Game is **ONLY OFFLINE!!!**)... Enjoy!!!
